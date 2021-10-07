@@ -16,3 +16,6 @@ Following are the commands I learnt and used:
 11. git branch [branch-name] : Creates new branch
 12. git checkout [branch-name] : Can switch to the specified branch and update the working directory
 13. git merge [branch-name] : Combines the specified branch's history into the current branch 
+14. git remote add [alias] [Repo-URL] : Links the local repository to the remote repository
+15. git remote -v : Shows the URLs that Git has stored as a short name
+16. git push [alias] [branch-name] : Uploads all the local branch commits to GitHub
